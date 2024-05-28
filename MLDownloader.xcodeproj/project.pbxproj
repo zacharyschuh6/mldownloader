@@ -13,6 +13,7 @@
 		1133FD202C0639E8009D3D6D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 1133FD1F2C0639E8009D3D6D /* Base */; };
 		1133FD222C0639EA009D3D6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1133FD212C0639EA009D3D6D /* Assets.xcassets */; };
 		1133FD252C0639EA009D3D6D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 1133FD242C0639EA009D3D6D /* Base */; };
+		1133FD2D2C063A2B009D3D6D /* CoreML_Downloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1133FD2C2C063A2B009D3D6D /* CoreML_Downloader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1133FD212C0639EA009D3D6D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1133FD242C0639EA009D3D6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1133FD262C0639EA009D3D6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1133FD2C2C063A2B009D3D6D /* CoreML_Downloader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreML_Downloader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1133FD182C0639E8009D3D6D /* AppDelegate.swift */,
 				1133FD1A2C0639E8009D3D6D /* SceneDelegate.swift */,
 				1133FD1C2C0639E8009D3D6D /* ViewController.swift */,
+				1133FD2C2C063A2B009D3D6D /* CoreML_Downloader.swift */,
 				1133FD1E2C0639E8009D3D6D /* Main.storyboard */,
 				1133FD212C0639EA009D3D6D /* Assets.xcassets */,
 				1133FD232C0639EA009D3D6D /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				1133FD1D2C0639E8009D3D6D /* ViewController.swift in Sources */,
 				1133FD192C0639E8009D3D6D /* AppDelegate.swift in Sources */,
+				1133FD2D2C063A2B009D3D6D /* CoreML_Downloader.swift in Sources */,
 				1133FD1B2C0639E8009D3D6D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
